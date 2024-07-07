@@ -5,7 +5,7 @@
     const app = express();
     const PORT = process.env.PORT || 3000;
     const VERIFY_TOKEN = 'chlai';
-    const PAGE_ACCESS_TOKEN = 'EAAFj1qw2fbIBO1ZA1WMGS2lm8RODo2zrGvPl6lrf8sW5mkWsQy1WBJNJ3xAK3RczVv7ZAgNXDLKZAPivVwiuJLWWPXTcACGzS9epwTsjp3si8h3zGOmPwAEdwBoq15QPCPkhAPlAFYKVmCY1VqWAyYmGoe6b9YEl79dNIjzZBWzPm5CoAYpD2EKk2J1UB9laxyqFm7YMRJPypbRCeQZDZD';
+    const PAGE_ACCESS_TOKEN = 'EAAFj1qw2fbIBO2lhtInvTTlZBg8eD82RvXr4nr7uH5EdkyZA972Ix3rpWSr0Tr7oVsdaoj5LSv5NcZAuIkHALFMiMRbzPwEziDZC5YW2O8Vn4Ttiw1gYIws2Hib1Sk0D6EGe0ih4NUlwa99poJiCjVWZAIGFn2wAUuNEvjXS3qdCj10ZCUwLSGZBi9JKXw5sw1TgwZDZD';
 
     app.use(bodyParser.json());
 
